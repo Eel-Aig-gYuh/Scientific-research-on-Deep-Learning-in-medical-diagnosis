@@ -1,4 +1,4 @@
-# Scientific-research-on-Deep-Learning-in-medical-diagnosis
+# Enhance TransUnet with Cosine Attention and multi-scale deep learning.
 
 
 
