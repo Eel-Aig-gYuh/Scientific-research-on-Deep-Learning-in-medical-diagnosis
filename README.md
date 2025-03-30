@@ -1,6 +1,7 @@
 # Enhance TransUnet with Cosine Attention and multi-scale deep learning.
 
-
+## Related work
+Please follow this link: https://www.kaggle.com/code/heegiale/transunet-update-v2
 
 ## Citations
 
