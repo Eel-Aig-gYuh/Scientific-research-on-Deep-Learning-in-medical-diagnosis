@@ -1,4 +1,18 @@
 # Enhance TransUnet with Cosine Attention and multi-scale deep learning.
+<p align="center">
+  <img src="https://github.com/Eel-Aig-gYuh/Scientific-research-on-Deep-Learning-in-medical-diagnosis/blob/main/asserts/Screenshot%202025-09-07%20160729.png" width="250" height="250"/>
+  <img src="https://github.com/Eel-Aig-gYuh/Scientific-research-on-Deep-Learning-in-medical-diagnosis/blob/main/asserts/Screenshot%202025-09-07%20160740.png" width="250" height="250"/>
+</p>
+
+## System architecture
+<p align="center">
+  <img src="https://github.com/Eel-Aig-gYuh/Scientific-research-on-Deep-Learning-in-medical-diagnosis/blob/main/asserts/Screenshot%202025-09-07%20160715.png" width="250" height="250"/>
+</p>
+
+## Evalidation
+<p align="center">
+  <img src="https://github.com/Eel-Aig-gYuh/Scientific-research-on-Deep-Learning-in-medical-diagnosis/blob/main/asserts/Screenshot%202025-09-07%20160802.png" width="250" height="250"/>
+</p>
 
 ## Related work
 Please follow this link: https://www.kaggle.com/code/heegiale/transunet-update-v2
